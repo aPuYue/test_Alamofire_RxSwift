@@ -1,0 +1,6 @@
+framework module Pods_testAlamofire_RxSwift {
+  umbrella header "Pods-testAlamofire+RxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
